@@ -1,0 +1,253 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "hello",
+                "hey",
+                "hi",
+                "good day",
+                "greetings",
+                "what's up?",
+                "how is it going"
+            ],
+            "responses": [
+                "hello",
+                "hey!",
+                "what can i do for you?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "cya",
+                "see you later",
+                "goodbye",
+                "have a good day",
+                "bye",
+                "cao"
+            ],
+            "responses": [
+                "have a nice day",
+                "goodbye"
+            ]
+        },
+        {
+            "tag": "age",
+            "patterns": [
+                "how old",
+                "how old are you?",
+                "what is your age",
+                "how old are you",
+                "age?"
+            ],
+            "responses": [
+                "I get reborn after every compilation",
+                "hey!",
+                "my owner is 23 years old"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "what is your name",
+                "what should i call you",
+                "what's your name?",
+                "who are you?",
+                "can you tell me your name"
+            ],
+            "responses": [
+                "you can call me Medbot!",
+                "i am Medbot!",
+                "i am Medbot your medical assistant"
+            ]
+        },
+        {
+            "tag": "symptoms",
+            "patterns": [
+                "how do i know if i have",
+                "do i have",
+                "what are the symptoms of",
+                "when can i say if i have",
+                "symptoms related to",
+                "what determines if i have",
+                "i am not sure if i have",
+                "what are the signs of having"
+            ],
+            "responses": [
+                "Here are major symptoms of Brain cancer :\n\nHeadaches: Headaches are the most common symptom of brain cancer. They are often worse in the morning and can be accompanied by nausea and vomiting.\nNausea and vomiting: Nausea and vomiting are often caused by increased pressure inside the skull. This pressure can be caused by the tumor itself or by the swelling that often occurs around a tumor.\nSeizures: Seizures are caused by abnormal electrical activity in the brain. They can be caused by the tumor itself or by the pressure that the tumor puts on the brain\nVision problems: Vision problems can be caused by tumors that affect the optic nerve or the parts of the brain that control vision. These problems can include blurred vision, double vision, and loss of peripheral vision.\nPersonality changes: Personality changes can be caused by tumors that affect the parts of the brain that control emotions and behavior. These changes can include mood swings, irritability, and difficulty making decisions.\nMemory problems: Memory problems can be caused by tumors that affect the parts of the brain that control memory. These problems can include difficulty remembering recent events, names, and faces.\nWeakness or numbness: Weakness or numbness on one side of the body can be caused by tumors that affect the motor or sensory cortex. These areas of the brain control movement and sensation.\nDifficulty walking: Difficulty walking can be caused by tumors that affect the cerebellum. The cerebellum is responsible for balance and coordination.\nSpeech problems: Speech problems can be caused by tumors that affect the parts of the brain that control speech. These problems can include difficulty speaking clearly, understanding what others are saying, and reading and writing.\nDizziness: Dizziness can be caused by tumors that affect the parts of the brain that control balance.\nFatigue: Fatigue is a common symptom of brain cancer. It is often caused by the stress of the disease and the treatment.\n\nIf you experience any of these symptoms, it is important to see a doctor right away. Brain cancer is a serious disease, but early diagnosis and treatment can improve the chances of a good outcome."
+            ]
+        },
+        {
+            "tag": "causes",
+            "patterns": [
+                "what are the causes of",
+                "how come i have",
+                "what might have caused ? in me",
+                "how do i have",
+                "causes",
+                "how did i get it",
+                "what could cause",
+                "what can cause",
+                "cause"
+            ],
+            "responses": [
+                "The exact cause of brain cancer is unknown. However, there are a number of factors that may increase the risk of developing brain cancer, including:\nAge: The risk of brain cancer increases with age. The average age at diagnosis is 65.\nSex: Men are slightly more likely than women to develop brain cancer.\nFamily history: People who have a family history of brain cancer are at an increased risk of developing the disease.\nGenetic mutations: Certain genetic mutations can increase the risk of brain cancer. These mutations can be inherited from a parent or can occur spontaneously.\nExposure to radiation: Exposure to ionizing radiation, such as from radiation therapy or exposure to nuclear fallout, can increase the risk of brain cancer.\nCertain occupational exposures: People who work in certain occupations, such as those who are exposed to solvents, pesticides, or heavy metals, may be at an increased risk of brain cancer.\nCertain medical conditions: People who have certain medical conditions, such as neurofibromatosis type 1, tuberous sclerosis, or Li-Fraumeni syndrome, are at an increased risk of brain cancer.\nIt is important to note that having one or more of these risk factors does not mean that you will develop brain cancer. Most people who have these risk factors will never develop the disease. However, if you are concerned about your risk of brain cancer, talk to your doctor. They can help you assess your risk and develop a plan to reduce it."
+            ]
+        },
+        {
+            "tag": "risk factors",
+            "patterns": [
+                "what might increase the chances of","what are the risk factors related to",
+                "how might it develop further",
+                "can it develop further",
+                "what things can increase the chances of"
+            ],
+            "responses": [
+                "The future risks of having brain cancer can vary depending on the type of tumor, its size, its location, and the patient's age and overall health. Some of the possible future risks include:\nRecurrence of the tumor: Even after successful treatment, there is always a risk that the tumor could recur. The risk of recurrence is higher for some types of tumors than others.\nSide effects of treatment: Treatment for brain cancer can have a number of side effects, including fatigue, nausea, vomiting, hair loss, and cognitive impairment. These side effects can vary depending on the type of treatment used.\nSecond cancer: People who have been treated for brain cancer are at an increased risk of developing a second cancer. The risk of a second cancer is higher for some types of tumors than others.\nDeath: Brain cancer is a serious disease, and some people will not survive their diagnosis. The risk of death from brain cancer is higher for some types of tumors than others.\nIt is important to talk to your doctor about the future risks of having brain cancer. Your doctor can help you understand your individual risk and develop a plan to manage your health."
+            ]
+        },
+        {
+            "tag": "treatment",
+            "patterns": [
+                "treatment of",
+                "cure of",
+                "how to cure",
+                "how to treat",
+                "how to get rid of this disease",
+                "how did i get rid of",
+                "i want to be healthy again",
+                "medications for",
+                "how do i get better",
+                "how to get well from"
+            ],
+            "responses": [
+                "The treatment for brain cancer depends on the type of tumor, its size, and its location. There are four main types of treatment for brain cancer:\nSurgery: Surgery is often the first line of treatment for brain cancer. The goal of surgery is to remove as much of the tumor as possible without damaging healthy brain tissue.\nRadiation therapy: Radiation therapy uses high-energy beams to kill cancer cells. Radiation therapy can be used after surgery to kill any remaining cancer cells, or it can be used alone if surgery is not possible.\nChemotherapy: Chemotherapy uses drugs to kill cancer cells. Chemotherapy can be used after surgery to kill any remaining cancer cells, or it can be used alone if surgery is not possible.\nTargeted therapy: Targeted therapy uses drugs that target specific molecules on cancer cells. Targeted therapy can be used to treat certain types of brain cancer.\nIn some cases, a combination of treatments may be used. For example, surgery may be followed by radiation therapy and chemotherapy.\nIf you have been diagnosed with brain cancer, it is important to talk to your doctor about your treatment options. Your doctor can help you understand the risks and benefits of each treatment option and choose the best treatment plan for you."
+            ]
+        },
+        {
+            "tag": "prevention",
+            "patterns": [
+                "preventive measures for",
+                "how do i prevent",
+                "how to stay away from",
+                "how do i prevent this disease from harming my body",
+                "i don't want to have"
+            ],
+            "responses": [
+                "There is no surefire way to prevent brain cancer, but there are some things you can do to reduce your risk. These include:\n\nAvoiding exposure to environmental hazards. This includes things like:\nSmoking. Smoking is a major risk factor for brain cancer. If you smoke, quitting is the best thing you can do to reduce your risk.\nRadiation exposure. Exposure to radiation, such as from CT scans or X-rays, can increase your risk of brain cancer. However, the benefits of these tests often outweigh the risks.\nPesticides and insecticides. Exposure to pesticides and insecticides can increase your risk of brain cancer. If you work with these chemicals, take steps to minimize your exposure\nCertain chemicals. Exposure to certain chemicals, such as vinyl chloride and asbestos, can increase your risk of brain cancer. If you work with these chemicals, take steps to minimize your exposure.\nLimiting alcohol consumption. Heavy alcohol consumption can increase your risk of brain cancer. If you drink alcohol, do so in moderation.\nEating a healthy diet. Eating a healthy diet rich in fruits, vegetables, and whole grains can help reduce your risk of many types of cancer, including brain cancer.\nExercising regularly. Exercise can help reduce your risk of many types of cancer, including brain cancer. Aim for at least 30 minutes of moderate-intensity exercise most days of the week.\nMaintaining a healthy weight. Being overweight or obese can increase your risk of many types of cancer, including brain cancer. Aim to maintain a healthy weight by eating a healthy diet and exercising regularly.\nGetting regular checkups. If you have a family history of brain cancer or other risk factors, talk to your doctor about getting regular checkups. This can help detect a brain tumor early, when it is most treatable.\nIt is important to note that these are just general tips. If you are concerned about your risk of brain cancer, talk to your doctor. They can help you assess your risk and develop a plan to reduce it."
+            ]
+        },
+        {
+            "tag": "ai",
+            "patterns": [
+                "can ai solve it",
+                "how much ai progressed",
+                "can it solved by mechine",
+                "how good ai is to solve it"
+            ],
+            "responses": [
+                "Artificial intelligence (AI) is being used in a variety of ways to improve the diagnosis, treatment, and prevention of brain cancer. Some of the most promising AI-based approaches include:\nAI-powered imaging: AI can be used to analyze medical images, such as MRI scans, to identify brain tumors with greater accuracy than human radiologists. This can help to improve the early diagnosis of brain cancer, which is essential for successful treatment.\nAI-powered drug discovery: AI can be used to identify new drug targets and to design new drugs that are more effective against brain cancer. This is a promising area of research, as there are currently very few effective treatments for brain cancer.\nAI-powered personalized medicine: AI can be used to develop personalized treatment plans for brain cancer patients. This is based on the patient's individual genetic makeup and tumor characteristics. This approach has the potential to improve the effectiveness of treatment and to reduce side effects.\nAI is a rapidly evolving field, and new AI-based approaches to brain cancer are being developed all the time. With continued research, AI has the potential to revolutionize the way brain cancer is diagnosed, treated, and prevented.\n\nFor example :\nA team of researchers at the University of Pennsylvania developed an AI-powered algorithm that can identify brain tumors with 97% accuracy. The algorithm was trained on a dataset of MRI scans of brain tumors. It can be used to help radiologists identify brain tumors earlier and more accurately."
+            ]
+        },
+        {
+            "tag": "current research",
+            "patterns": [
+                "new updates on this disease",
+                "what is happening in the world",
+                "research about",
+                "publications related to",
+                "current affairs on",
+                "latest information"
+            ],
+            "responses": [
+                "Here are some specific examples of current research on brain cancer:\nA new clinical trial is testing a method that combines artificial intelligence with an advanced imaging technology to accurately diagnose brain tumors in fewer than 3 minutes during surgery. The approach can also accurately distinguish tumor from healthy tissue.\nResearchers are developing a blood test to help diagnose brain tumors. The blood test would look for proteins that are released by cancer cells.\nResearchers are testing a new immunotherapy drug called olaparib for people with glioblastoma. Olaparib is a cancer growth blocker that blocks a protein called PARP that helps cancer cells to repair themselves.\nResearchers are developing new targeted therapies for brain cancer. Targeted therapies are drugs that target specific molecules that are involved in cancer growth.\nResearchers are developing new ways to deliver drugs to brain tumors. The blood-brain barrier is a protective layer that prevents many drugs from reaching brain tumors. Researchers are working to develop new ways to deliver drugs that can overcome the blood-brain barrier.\n These are just a few examples of the many research efforts underway to improve the diagnosis, treatment, and prevention of brain cancer. With continued research, there is hope that new and better treatments will be developed that will improve the lives of people with brain cancer.\n\nFor more information you can go https://www.worldwidecancerresearch.org/what-we-do/our-research-projects/?psafe_param=1&gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF8DlMzv-kxmH1KhR0TtoedBV7xl9xL4PpZzS0zWuUGx75HSd_C8C6UaAh3kEALw_wcB"   ]
+        },
+        {
+            "tag": "effects",
+            "patterns": [
+                "what happens if i have",
+                "adverse effects of having",
+                "what will happen to me",
+                "what are the complications related to",
+                "what are the complications of"
+            ],
+            "responses": [
+                "Neurological symptoms: Brain cancer can cause a range of neurological symptoms depending on its location. These may include headaches, seizures, difficulty speaking or understanding language (aphasia), problems with coordination and balance, weakness or numbness in the limbs, changes in vision or hearing, and cognitive impairments.\nBehavioral and personality changes: Tumors in certain areas of the brain can affect a person's behavior and personality. They may experience mood swings, irritability, aggression, depression, or changes in their social interactions and judgment.\nCognitive impairments: Brain tumors can impact cognitive function, leading to problems with memory, attention, concentration, problem-solving, and decision-making abilities. Learning difficulties and decreased processing speed may also occur.\nMotor skill deficits: Depending on the tumor's location, individuals may experience motor skill deficits such as weakness, paralysis, coordination difficulties, or changes in fine motor skills.\nVision and hearing problems: Tumors near the optic nerves or auditory pathways can cause vision or hearing problems, including blurred or double vision, partial or complete loss of vision, or hearing loss.\nEndocrine system disruptions: Certain brain tumors can affect the function of the endocrine system, leading to hormonal imbalances. This can result in various symptoms such as changes in weight, menstrual irregularities, growth abnormalities, or fatigue.\nHeadaches and nausea: Increased intracranial pressure caused by the tumor can lead to frequent headaches, sometimes accompanied by nausea and vomiting.\nFatigue and weakness: Brain cancer can cause generalized fatigue and weakness due to the body's response to the disease, side effects of treatments, or metabolic changes.\n\nIt's important to note that these effects can vary widely, and not all individuals with brain cancer will experience the same symptoms. "
+            ]
+        },
+        {
+            "tag": "people",
+            "patterns": [
+                "how does it spread among other people",
+                "how can it effect people around me",
+                "are people around me safe",
+                "do I need to avoid people",
+                "which activities i should not do around people"
+            ],
+            "responses": [
+                "Brain cancer is not contagious and does not spread from person to person like a viral or bacterial infection. Brain cancer develops due to the abnormal growth of cells within the brain itself. These cells may originate in the brain (primary brain cancer) or spread to the brain from other parts of the body (secondary or metastatic brain cancer).\nSo people around you are safe from it as it  develops within an individual's own body either as a primary tumor in the brain or as a result of metastasis from another primary cancer site.\nSo you can freely rroam around people"
+            ]
+        },
+        {
+            "tag": "spread",
+            "patterns": [
+                "how does it spread in my body ",
+                "internal working process of it",
+                "how it afftects by body",
+                "what can happen to my body "
+                ,"how body parts gonna react"
+            ],
+            "responses": [
+                "Brain cancer can spread in the human body in a few different ways. The most common way is through the cerebrospinal fluid (CSF). The CSF is a clear fluid that surrounds the brain and spinal cord. It helps to cushion and protect these organs. Cancer cells can sometimes break off from a tumor and travel through the CSF to other parts of the brain or spinal cord. \nAnother way that brain cancer can spread is through the blood. Cancer cells can sometimes break off from a tumor and travel through the bloodstream to other parts of the body. This is called metastasis. Metastasis is the most common way that brain cancer spreads to other organs, such as the lungs, liver, and bones. \nFinally, brain cancer can also spread through direct invasion. This means that the cancer cells grow directly into the surrounding tissue. This is most common with tumors that start in the meninges, the membranes that surround the brain and spinal cord."
+            ]
+        },
+        {
+            "tag": "stat",
+            "patterns": [
+                "how many people affected every year",
+                "number of people having every year",
+                "how many people die every year",
+                "number of people dying every year",
+               "total death every year",
+               "stats of brain cancer",
+               "avarage age of having",
+               "at what age people got afftected"
+            ],
+            "responses": [
+                "In 2020, an estimated 308,102 people were diagnosed with a primary brain or spinal cord tumor worldwide and an estimated 251,329 people died from brain cancer.\nOf these, 157,110 were in men and 151,002 were in women.\nThe average age of diagnosis for brain cancer is 64 years old."
+            ]
+        },
+        {
+            "tag": "miscellaneous",
+            "patterns": [
+                "how can you help me",
+                "help me",
+                "provide more information",
+                "want to know more about it",
+                "total death every year",
+                "stats of ",
+                "avarage age of having",
+                "at what age people got afftected"
+            ],
+            "responses": [
+                "You have to ask question on a perticular topic, then only I am able to help you"
+            ]
+        },
+        {
+            "tag": "Consultation",
+            "patterns": [
+                "find doctor",
+                "who should i contact for consultation?",
+                "is there any doctor available?",
+                "can you give me some suggestions for doctor ?",
+                "can you set up a meeting with a doctor ?",
+                "is there any doctor available for "
+                ,"find consultation"
+            ],
+            "responses": [
+                "You can contact various doctors here for any kind of consultation: 1. https://www.1mg.com/online-doctor-consultation, 2. https://www.tatahealth.com/online-doctor-consultation/general-physician, 3. https://www.doconline.com/, or you can pay a visit to your local area doctor or family doctor."
+            ]
+        }
+    ]
+}
